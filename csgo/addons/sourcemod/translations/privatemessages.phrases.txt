@@ -1,0 +1,102 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"en"        "{green}[PM]{default}"
+	}
+	"Admin Spy"
+	{
+		"en"        "{green}[PM-SPY]{default}"	
+	}
+	"Menu Title"
+	{
+		"en"        "Private messages (/pm)"
+	}
+	"Settings Menu Title"
+	{
+		"en"        "Private messages (/pm)"
+	}
+	"Send a message"
+	{
+		"en"        "Send a message"
+	}
+	"Settings"
+	{
+		"en"        "Settings"
+	}
+	"Message blocking ON"
+	{
+		"en"        "Messages blocking [ON]"
+	}
+	"Message sounds ON"
+	{
+		"en"        "Message sounds [ON]"
+	}
+	"Message blocking OFF"
+	{
+		"en"        "Messages blocking [OFF]"
+	}
+	"Message sounds OFF"
+	{
+		"en"        "Message sounds [OFF]"
+	}
+	"Choose a player"
+	{
+		"en"        "Choose a player"
+	}
+	"Player no longer available"
+	{
+		"en"        "The player you selected is no longer available."
+	}
+	"No available players"
+	{
+		"en"        "No available players!"
+	}
+	"Message canceled"
+	{
+		"en"        "Private message was canceled."
+	}
+	"Chat message"
+	{
+		"en"        "Type in chat a message, that you want to send. To cancel it, type {green}!cancel"
+	}
+	"PM Format client"
+	{
+		"#format"    "{1:N},{2:s}"
+		"en"        "To: {blue}{1} {default}message: {green}{2}"
+	}
+	"PM Format victim"
+	{
+		"#format"    "{1:N},{2:s}"
+		"en"        "From: {blue}{1} {default}message: {green}{2}"
+	}
+	"Settings blocking msg on"
+	{
+		"en"        "Private messages are {green}enabled{default}!"
+	}
+	"Settings blocking msg off"
+	{
+		"en"        "Private messages are {green}disabled{default}!"
+	}
+	"Settings blocking sound off"
+	{
+		"en"        "Sounds of private messages are {green}disabled{default}!"
+	}
+	"Settings blocking sound on"
+	{
+		"en"        "Sounds of private messages are {green}enabled{default}!"
+	}
+	"You must have enabled private messages"
+	{
+		"en"        "You must have enabled private messages!"
+	}
+	"You have active gag"
+	{
+		"en"        "You have active gag!"
+	}
+	"Player have disable disabled PM"
+	{
+		"#format"    "{1:N}"
+		"en"        "Player {green}{1}{default} has disabled private messages."
+	}
+}
