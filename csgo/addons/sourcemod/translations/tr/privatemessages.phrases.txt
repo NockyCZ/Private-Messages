@@ -1,0 +1,102 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"tr"        "{green}[OM]{default}"
+	}
+	"Admin Spy"
+	{
+		"tr"        "{green}[OM-SPY]{default}"	
+	}
+	"Menu Title"
+	{
+		"tr"        "Özel mesajlar (/pm)"
+	}
+	"Settings Menu Title"
+	{
+		"tr"        "Özel mesajlar (/pm)"
+	}
+	"Send a message"
+	{
+		"tr"        "Bir mesaj gönder"
+	}
+	"Settings"
+	{
+		"tr"        "Ayarlar"
+	}
+	"Message blocking ON"
+	{
+		"tr"        "Mesajları Engelleme [AÇIK]"
+	}
+	"Message sounds ON"
+	{
+		"tr"        "Mesaj Sesleri [AÇIK]"
+	}
+	"Message blocking OFF"
+	{
+		"tr"        "Mesajları Engelleme [KAPALI]"
+	}
+	"Message sounds OFF"
+	{
+		"tr"        "Mesaj Sesleri [KAPALI]"
+	}
+	"Choose a player"
+	{
+		"tr"        "Bir oyuncu seçin"
+	}
+	"Player no longer available"
+	{
+		"tr"        "Seçtiğiniz oyuncu artık mevcut değil."
+	}
+	"No available players"
+	{
+		"tr"        "Müsait oyuncu yok!"
+	}
+	"Message canceled"
+	{
+		"tr"        "Özel mesaj iptal edildi."
+	}
+	"Chat message"
+	{
+		"tr"        "Sohbete göndermek istediğiniz bir mesaj yazın. İptal etmek için {green}!iptal {default}yazın"
+	}
+	"PM Format client"
+	{
+		"#format"    "{1:N},{2:s}"
+		"tr"        "Alıcı: {blue}{1} {default}mesaj: {green}{2}"
+	}
+	"PM Format victim"
+	{
+		"#format"    "{1:N},{2:s}"
+		"tr"        "Gönderen: {blue}{1} {default}mesaj: {green}{2}"
+	}
+	"Settings blocking msg on"
+	{
+		"tr"        "Özel mesajlar: {green}açık{default}!"
+	}
+	"Settings blocking msg off"
+	{
+		"tr"        "Özel mesajlar: {green}kapalı{default}!"
+	}
+	"Settings blocking sound off"
+	{
+		"tr"        "Özel mesaj sesleri: {green}kapalı{default}!"
+	}
+	"Settings blocking sound on"
+	{
+		"tr"        "Özel mesaj sesleri: {green}açık{default}!"
+	}
+	"You must have enabled private messages"
+	{
+		"tr"        "Özel mesajları etkinleştirmiş olmalısınız!"
+	}
+	"You have active gag"
+	{
+		"tr"        "Gag cezanız var!"
+	}
+	"Player have disable disabled PM"
+	{
+		"#format"    "{1:N}"
+		"tr"        "{green}{1} {default}özel mesajları devre dışı bırakmış!"
+	}
+}
