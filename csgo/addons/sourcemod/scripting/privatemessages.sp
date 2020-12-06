@@ -192,7 +192,7 @@ public int PMSetting_MenuHandler(Menu menu, MenuAction action, int client, int c
 						PMSetting_Menu(client);
 						CPrintToChat(client, "%t %t", "Prefix", "Settings blocking msg on");
 						
-						SetClientCookie(client, g_hBlockSound, "0");
+						SetClientCookie(client, g_hBlockMessages, "0");
 					}
 					else
 					{
@@ -200,7 +200,7 @@ public int PMSetting_MenuHandler(Menu menu, MenuAction action, int client, int c
 						PMSetting_Menu(client);
 						CPrintToChat(client, "%t %t", "Prefix", "Settings blocking msg off");
 						
-						SetClientCookie(client, g_hBlockSound, "1");
+						SetClientCookie(client, g_hBlockMessages, "1");
 					}
 				}
 				case 1:
